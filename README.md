@@ -107,7 +107,6 @@ predicted_score = regressor.predict(new_hours)
 
 print("\nHours Studied:", 9.25)
 print("Predicted Score:", round(predicted_score[0], 2))
-```
 
 ## Output:
 <img width="731" height="628" alt="image" src="https://github.com/user-attachments/assets/41eed471-a17d-48f1-9156-2746a71e235b" />
